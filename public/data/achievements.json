@@ -1,0 +1,24 @@
+{
+    "achievements": [
+        {
+            "name": "Score 5",
+            "description": "Achieve a score of 5.",
+            "condition": "score >= 5"
+        },
+        {
+            "name": "Score 10",
+            "description": "Achieve a score of 10.",
+            "condition": "score >= 10"
+        },
+        {
+            "name": "Play for 1 minute",
+            "description": "Play for at least 1 minute.",
+            "condition": "timer >= 60"
+        },
+        {
+            "name": "Reach 1 WPM",
+            "description": "Reach 1 word per minute (WPM).",
+            "condition": "wpm >= 1"
+        }
+    ]
+}

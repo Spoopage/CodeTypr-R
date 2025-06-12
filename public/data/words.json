@@ -1,0 +1,5 @@
+{
+  "easy": ["let", "var", "for", "if", "else"],
+  "medium": ["const", "function", "return", "while", "switch"],
+  "hard": ["asynchronous", "callback", "promise", "recursion", "eventloop"]
+}
